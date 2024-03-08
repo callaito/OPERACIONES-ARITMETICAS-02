@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Calculo3;
+using operaciones2;
 
 Console.WriteLine("OPERACIONES ARITMETICAS");
 Console.WriteLine();
